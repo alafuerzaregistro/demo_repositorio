@@ -8,5 +8,10 @@ public class ClaseA{
     y = 0;
     codigo = "";
   }
+  
+  public void mensaje()
+  {
+	  System.out.println("Hola");
+  }
 }
   
